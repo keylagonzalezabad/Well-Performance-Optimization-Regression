@@ -1,8 +1,8 @@
 # Well Performance Optimization
 
-Well Performance Optimizatio Using Machine Learning Techniques
+Well Performance Optimization Using Machine Learning Techniques
 
-# Well Performance 
+## Well Performance 
 
 <img src="https://user-images.githubusercontent.com/65777681/93686940-45f9a280-fa7f-11ea-8656-fe4ad2b43afb.PNG" width="600">
 
@@ -16,4 +16,4 @@ Well Performance Optimizatio Using Machine Learning Techniques
 
 ## Dataset Description
 
-<img src="https://user-images.githubusercontent.com/65777681/93686961-6de90600-fa7f-11ea-9068-2bdce50d56a4.PNG" width="600">
+<img src="https://user-images.githubusercontent.com/65777681/93686961-6de90600-fa7f-11ea-9068-2bdce50d56a4.PNG" width="650">
