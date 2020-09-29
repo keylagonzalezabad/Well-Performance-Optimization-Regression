@@ -1,6 +1,12 @@
 # Well Performance Optimization
 
-Well Performance Optimization Using Machine Learning Techniques
+Well Performance Optimization Using Machine Learning Techniques:
+
+- ElasticNet
+- Support Vector Regressor
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- Neural Network Regressor
 
 ## Well Performance 
 
